@@ -23,7 +23,7 @@ Para correr el programa se debe hacer desde la terminal con el siguiente código
 ```
 python main.py red.json A F rojo
 ```
-
+*Usar version actualizada de python*
 Donde red.json es el archivo json que describe la red, A es la estación de inicio, F es la estación de llegada y rojo es el color del tipo de tren a tomar (opcional).
 
 El programa entregará el resultado de la red más óptima printeando en consola "Mejor ruta: ["ruta optima"]"
